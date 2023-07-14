@@ -145,7 +145,7 @@ const CreatePost = () => {
         </Form.Group>
         <br/>
         <Button variant="primary" type="submit">
-          Submit
+          Create
         </Button>
       </Form>
     </div>
